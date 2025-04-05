@@ -39,7 +39,7 @@ pip install requests
 1. **Clone the repository**
 
 ```bash
-https://github.com/KartikeyanTomar/ipRECON.git
+git clone https://github.com/KartikeyanTomar/ipRECON.git
 cd IPRecon
 ```
 
